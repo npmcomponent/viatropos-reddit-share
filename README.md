@@ -1,5 +1,7 @@
 # Reddit Share
 
+[![http://www.reddit.com/static/spreddit1.gif](http://www.reddit.com/static/spreddit1.gif)](http://www.reddit.com/buttons/)
+
 ## Installation
 
 ```bash
