@@ -1,0 +1,10 @@
+{
+  "name": "viatropos-reddit-share",
+  "description": "Reddit Share component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "viatropos-open-window": "git://github.com/npmcomponent/viatropos-open-window.git"
+  },
+  "license": "MIT"
+}
